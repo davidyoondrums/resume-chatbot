@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>David Yoon's Resume Chatbot</title>
+        <title>David Yoon&apos;s AI Resume Chatbot</title>
         <meta
           name="description"
           content="AI chatbot that can tell you about David Yoon's work experiences"
