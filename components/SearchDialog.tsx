@@ -148,7 +148,7 @@ export function SearchDialog() {
                   hover:bg-slate-100 dark:hover:bg-gray-600
                   rounded border border-slate-200 dark:border-slate-600
                   transition-colors"
-                  onClick={(_) => setQuery('What are embeddings?')}
+                  onClick={(_) => setQuery('Tehll me about his leadership experience?')}
                 >
                   Tehll me about his leadership experience?
                 </button>
